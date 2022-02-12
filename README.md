@@ -17,13 +17,9 @@
 <h3 align="left" style="margin-top:50px">Connect with me:</h3>
 
 <p align="left">
-
 <a href="https://twitter.com/guillaume_rygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guillaume_rygn" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/guillaume-reygner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-reygner" height="30" width="40" /></a>
-
 <a href="https://guillaume-reygner.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="guillaume-rygn" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left" style="margin-top:50px">Languages and Tools:</h3>
