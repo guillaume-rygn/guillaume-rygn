@@ -1,18 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guillaume</h1>
 
-<h3 align="center">Student Developper Fullstack 💻</h3>
+<h3 align="center">Student Developper Fullstack ReactJS/Ruby on Rails💻</h3>
 
-- 🔭 I’m currently working on **[Kata Temple](https://katatemple.herokuapp.com/)**
+- 🔭 I’m currently working on **EmojiFace**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **ReactJS**
 
-- 📝 I regularly write articles on **[Startup101🚀](https://www.startup101.cf/)**
+- 📝 I regularly write articles on **[Startup101🚀](https://www.startup101.cf/)** and **[Medium](https://medium.com/@guillaume-reygner)**
 
-- 💬 Ask me about **Startup** and **Computer Science**
+- 💬 Ask me about **Computer Science** and **Startup** 
 
 - 📫 How to reach me **reygner0224@gmail.com**
 
-- ⚡ Fun fact **cheese lover**
+- ⚡ Fun fact **easter egg lover**
 
 <h3 align="left" style="margin-top:50px">Connect with me:</h3>
 
