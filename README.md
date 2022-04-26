@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript** and **ReactJS**
 
-- 📝 I regularly write articles on **[Startup101🚀](https://www.startup101.cf/)** and **[Medium](https://medium.com/@guillaume-reygner)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@guillaume-reygner)** and **[Startup101🚀](https://www.startup101.cf/)**
 
 - 💬 Ask me about **Computer Science** and **Startup** 
 
