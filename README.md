@@ -2,7 +2,7 @@
 
 <h3 align="center">Student Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
 
-- 🔭 I’m currently working on **EmojiFace**
+- 🔭 I’m currently working on **[Animation.style](https://github.com/guillaume-rygn/animation.style)**
 
 - 🌱 I’m currently learning **Javascript** and **ReactJS**
 
