@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[YouLearn](https://guillaume-rygn.github.io/YouLearn/)**
 
-- 🌱 I’m currently learning **Typescript** and **Angular**
+- 🌱 I’m currently learning **Solidity** and **Hardat**
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@guillaume-reygner)** and **[Startup101🚀](https://www.startup101.cf/)**
 
