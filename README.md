@@ -2,11 +2,11 @@
 
 <h3 align="center">Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
 
-- 🔭 I’m currently working on **[YouLearn](https://guillaume-rygn.github.io/YouLearn/)**
+- 🔭 I’m currently working on **[YouLearn](https://www.goyoulearn.com/)**
 
 - 🌱 I’m currently learning **Solidity** and **Hardat**
 
-- 📝 I regularly write articles on **[Medium](https://medium.com/@guillaume-reygner)** and **[Startup101🚀](https://www.startup101.cf/)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@guillaume-reygner)**
 
 - 💬 Ask me about **Computer Science** and **Startup** 
 
