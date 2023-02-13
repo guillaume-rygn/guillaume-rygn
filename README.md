@@ -2,9 +2,9 @@
 
 <h3 align="center">Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
 
-- 🔭 I’m currently working on **[YouLearn](https://www.goyoulearn.com/)**
+- 🔭 I’m currently working on **[Linkedia]([https://www.goyoulearn.com/](https://chrome.google.com/webstore/detail/linkedia/onclbifkkglhmjhpnlfkcfhhbmjaopdc?hl=fr))**
 
-- 🌱 I’m currently learning **Solidity** and **Hardat**
+- 🌱 I’m currently learning **Nuxt** and **Node**
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@guillaume-reygner)**
 
